@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oh, hi there 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -8,3 +8,8 @@ Eu costumava ser jornalista, porém já faz algum tempo que estou estudando dese
 - 📚 Estou aprendendo backend web development usando NodeJS, ExpressJS and MongoDB. Antes estava usando ReactJS.
 - 👯 Estou buscando oportunidades na área de desenvolvimento web. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/francisco-j%C3%BAnior-b3071282/) [Gmail](mailto:fjunior@gmail.com)
+
+Talvez você queria dar uma olhada:
+https://devinmmoapp.netlify.app
+
+https://pokedex-app-eta.vercel.app
