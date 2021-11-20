@@ -5,7 +5,7 @@
 Eu costumava ser jornalista, porém já faz algum tempo que estou estudando desenvolvimento web. Ao longo dos últimos meses, estive estudando HTML, CSS e JavaScript.
 
 - 🔭 Atualmente faço uma pós em Desenvolvimento Web Fullstack pela PUC-Minas e estou na DEVinHouse.
-- 📚 Estou aprendendo backend web development usando NodeJS, ExpressJS and MongoDB. Antes estava usando ReactJS.
+- 📚 Estou aprendendo backend web development usando NodeJS, ExpressJS and MongoDB. Antes estava estudando ReactJS.
 - 👯 Estou buscando oportunidades na área de desenvolvimento web. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/francisco-j%C3%BAnior-b3071282/) [Gmail](mailto:fjunior@gmail.com)
 
