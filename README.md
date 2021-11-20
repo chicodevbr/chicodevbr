@@ -9,7 +9,8 @@ Eu costumava ser jornalista, porém já faz algum tempo que estou estudando dese
 - 👯 Estou buscando oportunidades na área de desenvolvimento web. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/francisco-j%C3%BAnior-b3071282/) [Gmail](mailto:fjunior@gmail.com)
 
-Talvez você queria dar uma olhada:
+- 🕹️ Talvez você queria dar uma olhada:
+
 https://devinmmoapp.netlify.app
 
 https://pokedex-app-eta.vercel.app
