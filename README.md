@@ -18,3 +18,5 @@ https://pokedex-app-eta.vercel.app
 https://devintodolist-app.netlify.app
 
 https://todo-react-redux-api.vercel.app
+
+https://chicodevbr.github.io/expanding-cards
