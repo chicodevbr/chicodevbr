@@ -22,3 +22,5 @@ https://todo-react-redux-api.vercel.app
 https://chicodevbr.github.io/expanding-cards
 
 https://contact-list-app-v1.netlify.app
+
+https://show-seasons-app.netlify.app/
